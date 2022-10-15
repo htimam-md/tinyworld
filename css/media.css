@@ -1,0 +1,240 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+/* header starts */
+
+    body{
+        padding-top: 89px;
+    }
+
+.c_padding{
+    padding: 50px 0 70px;
+    }
+header{
+    padding: 10px 0;
+}
+.menu ul li a{
+    padding: 10px 0 0 !important;
+    font-size: 20px;
+    text-align: right;
+   }
+
+     /* slider */
+
+     .slider {
+        padding-bottom: 72px;
+    }
+    .c_ind {
+        bottom: -59px;
+    }
+    .s_txt {
+        margin-top: 0;
+    }
+    .s_txt h2 {
+        padding: 0 0;
+    }
+ 
+
+  /* features */
+ 
+
+    .c_h1 {
+        margin-bottom: 10px;
+        font-size: 25px;
+      
+    }
+    .c_p {
+        font-size: 17px;
+        line-height: 25px;
+        
+    }
+    .f_item {
+        margin-top: 30px;
+    }
+
+    .f_ico i {
+        font-size: 36px;
+    }
+    .f_text {
+        
+        text-align: center;
+    }
+    .f_text h2 {
+        margin-bottom: 0;
+        font-size: 20px;
+    }
+    .f_text p {
+       letter-spacing: 0px;
+       } 
+     /* contact */
+      /* contact us */
+ .c_form{
+    margin-top: 40px;
+    margin-bottom: 40px;
+ }
+ .c_input{
+    height: 40px;
+    padding: 10px;
+ }
+ .c_submit{
+    height: 40px;
+ }
+       .c_submit {
+        margin-top: 11px;
+    }
+    c_ico li{
+        margin-right: 20px !important;
+     }
+    .c_ico li i{
+        font-size: 38px;
+         
+    }
+
+    .f_1 address{
+        margin-bottom: 0px;
+    }
+    .f_1, .f_2{
+        text-align: center !important;
+    }
+    .f_2{
+        margin-top: 40px;
+    }
+}
+
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {  
+   /* header starts */
+
+   .c_padding{
+    padding: 50px 0 70px;
+    }
+  
+    .menu ul li a{
+       padding: 10px 0 0 !important;
+       font-size: 20px;
+       text-align: right;
+      }
+
+      /* slider */
+
+      .slider {
+        padding-bottom: 72px;
+    }
+    .c_ind {
+        bottom: -59px;
+    }
+    .s_txt {
+        margin-top: 0;
+    }
+    .s_txt h2 {
+        padding: 10px 0;
+    }
+    p {
+     
+        margin-bottom: -0.8rem;
+    }
+   /* features */
+   
+    .f_item {
+        margin-top: 30px;
+    }
+
+    .f_ico i {
+        font-size: 36px;
+    }
+    .f_text {
+        
+        text-align: center;
+    }
+    .f_text h2 {
+        margin-bottom: 0;
+        font-size: 20px;
+    }
+    .f_text p {
+       letter-spacing: 0px;
+       } 
+       
+ /* contact us */
+ .c_form{
+    margin-top: 35px;
+    margin-bottom: 40px;
+ }
+ .c_input{
+    height: 40px;
+    padding: 10px;
+ }
+ .c_submit{
+    height: 40px;
+ }
+  
+ c_ico li{
+    margin-right: 20px !important;
+ }
+.c_ico li i{
+    font-size: 38px;
+     
+}
+.f_1{
+    margin-bottom: 40px   ;
+}
+.f_1, .f_2{
+    text-align: center !important;
+}
+} 
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* header starts */
+
+    .c_padding{
+        padding: 80px 0 100px;
+        }
+      
+    .menu ul li a{
+        padding: 10px 0 0 !important;
+        text-align: right;
+       }
+
+       /* features */
+ 
+
+        .f_item{
+            margin-top: 70px;
+          
+          }
+
+   /* contact */
+   .c_form{
+    margin-top: 65px;
+    margin-bottom: 70px;
+    }
+footer{
+    padding-bottom:100px ;
+}
+
+
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+   
+} 
+ /* Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { .box{
+
+    background-color: rgb(214, 195, 110);
+} }
+ /* Large devices (desktops, 1400px and up) */
+@media (min-width: 1400px) and (max-width:   1699.98px) { .box{
+
+    background-color: rgb(1, 8, 8);
+} }
+ /* Large devices (desktops, 1700px and up) */
+@media (min-width: 1700px) and (max-width: 1999.98px) { .box{
+
+    background-color: rgb(4, 84, 231);
+} }
+
+ /* Extra large devices (large desktops, 20000px and up) */
+@media (min-width: 2000px) {  }

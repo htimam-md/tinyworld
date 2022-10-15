@@ -1,0 +1,79 @@
+psd to html
+psd to bootstrap
+psd to html responsive with bootstraphtml, css, bootstrap, js/jq
+
+
+ctrl+h ctrl+; to see/hide grid 
+
+project formation
+layout define
+
+1. header
+2. slider
+3. feature
+4. contact us
+5. footer
+
+color used:
+font color logo:#010101
+bg color: #fcdb00
+p color:#898989
+
+h color:#313841
+yellow:#fcdb00
+
+==================
+xxl 1440-1600-1800-2100
+xxl 1200 
+lg  1024
+
+
+md 768
+
+
+sm 576
+col 320
+
+
+header-----------------
+
+          xxl/xl/lg                          md                  sm/col 
+
+menu             22                          22                    20                     
+
+
+
+slider  
+h1               32                           32                   32
+h2              
+padding          25                           10                   00
+icon
+p
+margin           77                           00                    00  
+carouse bottom  -80px                        -59                   -59                                        
+
+
+
+padding:-          
+          xxl/xl/lg 100-120              md                  sm/col 50-70
+
+header t-b        20                       20     
+
+
+feature:-          
+          xxl/xl/lg 100-120              md                  sm/col 50-70
+
+pt          100                         
+pb          120
+mt          70                          50                      30
+h1          32
+p           20
+
+icon        50                          50                      36
+h2          22                          22                      20
+p           16                          16                      16
+
+
+
+
+
